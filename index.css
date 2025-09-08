@@ -2,5 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: pink;
+}
+
+.header1 {
+    background-color: rgb(204, 165, 195);
+    border: 30px;
+    margin: 20px;
+}
+
+.header1 ul{
+    list-style-type: none;
 }
