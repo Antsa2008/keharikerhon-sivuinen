@@ -1,7 +1,6 @@
 const kuvat = [
-  "kuva1.jpg",
-  "kuva2.jpg",
-  "kuva3.jpg"
+  "kuvat/Kiralippu.png",
+  "kuvat/kirasybau.png",
 ];
 
 let nykyinenIndeksi = 0;
