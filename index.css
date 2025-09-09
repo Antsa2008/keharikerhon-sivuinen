@@ -15,8 +15,14 @@ body {
     list-style-type: none;
 }
 
-img {
+.kuva_vaihdos img {
       cursor: pointer;
       width: 300px;
+      height: auto;
+      float: right;
+      margin-right: 30px;
+}
 
+.kuva_vaihdos {
+    float: right;
 }
